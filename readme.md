@@ -22,7 +22,7 @@ Il te faut Equicord compilé depuis les sources (les userplugins ne fonctionnent
 **Windows (PowerShell) :**
 ```powershell
 cd C:\chemin\vers\Equicord\src\userplugins
-git clone [https://github.com/hoho087/vencord-FakeMuteDeafenLab](https://github.com/epinayx/FakeDeafen-Equicord.git) fakeMuteDeafenLab
+git clone https://github.com/epinayx/FakeDeafen-Equicord.git fakeMuteDeafenLab
 cd ..\..
 pnpm build
 ```
